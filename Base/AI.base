@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - Core == "AI"
+  - type: table
+    name: 檢視
+    filters:
+      and:
+        - Core == "AI"
